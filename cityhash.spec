@@ -4,13 +4,13 @@
 
 Summary:	Fast hash functions for strings
 Name:		cityhash
-Version:	1.0.3
+Version:	1.1.0
 Release:	1
 License:	MIT
 Group:		Libraries
 URL:		http://code.google.com/p/cityhash
 Source0:	http://cityhash.googlecode.com/files/%{name}-%{version}.tar.gz
-# Source0-md5:	4d1a1102e696e699613c93ca8aeddd00
+# Source0-md5:	e591cfb40db0f71f39c73988cefdc14f
 BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
