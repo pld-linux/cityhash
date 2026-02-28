@@ -5,7 +5,7 @@
 Summary:	Fast hash functions for strings
 Name:		cityhash
 Version:	1.1.0
-Release:	1
+Release:	2
 License:	MIT
 Group:		Libraries
 URL:		http://code.google.com/p/cityhash
